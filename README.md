@@ -1,9 +1,9 @@
-# BP-GRAUDIT-STEP
+# BP-PYTEST-STEP
 
-GRAUDIT step help us to perform a security audit on source code. It is designed to identify potential security vulnerabilities in code written in various programming languages, including C/C++, Java, PHP, Python, Ruby, and others.
+Pytest provides a simple and powerful way to write and execute tests, with features such as test discovery, fixture management, parameterized testing, and plugins.
 
 ## Setup
-* Clone the code available at [BP-GRAUDIT-STEP](https://github.com/OT-BUILDPIPER-MARKETPLACE/BP-GRAUDIT-STEP.git)
+* Clone the code available at [BP-PYTEST-STEP](https://github.com/OT-BUILDPIPER-MARKETPLACE/BP-PYTEST-STEP.git)
 * Build the docker image
 ```
 git submodule init
